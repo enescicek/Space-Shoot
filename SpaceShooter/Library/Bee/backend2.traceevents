@@ -1,0 +1,261 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1710515959639956, "dur":50, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710515959640067, "dur":13399, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710515959653471, "dur":70, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710515959653577, "dur":662, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710515959654560, "dur":105, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/ENES/SpaceShooter/SpaceShooter_Data/level0.resS" }}
+,{ "pid":12345, "tid":0, "ts":1710515959654763, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/ENES/SpaceShooter/SpaceShooter_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":0, "ts":1710515959654874, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/ENES/SpaceShooter/SpaceShooter_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1710515959654933, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/ENES/SpaceShooter/SpaceShooter_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":0, "ts":1710515959655052, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1710515959655829, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710515959655993, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710515959657031, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710515959659839, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/ENES/SpaceShooter/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":0, "ts":1710515959659947, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/ENES/SpaceShooter/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710515959654364, "dur":5643, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710515959660009, "dur":198796, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710515959858807, "dur":489, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710515959859493, "dur":2098, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1710515959654819, "dur":5212, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1710515959660046, "dur":1723, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1710515959661769, "dur":422, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1710515959662191, "dur":5062, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1710515959667285, "dur":242, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\install unity editor\\Unity 2022.3.13f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":1, "ts":1710515959667257, "dur":271, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ENES/SpaceShooter/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1710515959673497, "dur":2750, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1710515959676336, "dur":748, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\install unity editor\\Unity 2022.3.13f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1710515959676333, "dur":753, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ENES/SpaceShooter/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1710515959677287, "dur":2379, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1710515959679798, "dur":147, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\install unity editor\\Unity 2022.3.13f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710515959679794, "dur":153, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ENES/SpaceShooter/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710515959680834, "dur":4284, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710515959685959, "dur":226, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1710515959692513, "dur":69, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1710515959686190, "dur":6403, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710515959692693, "dur":5463, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710515959698775, "dur":6758, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710515959705782, "dur":6204, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710515959712094, "dur":3235, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710515959719051, "dur":146, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1710515959715464, "dur":3748, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710515959719351, "dur":6562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710515959726071, "dur":5947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710515959732132, "dur":5617, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710515959737858, "dur":4127, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710515959742089, "dur":4568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710515959746764, "dur":2850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710515959749709, "dur":155, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\install unity editor\\Unity 2022.3.13f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710515959749706, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ENES/SpaceShooter/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710515959749889, "dur":23700, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710515959773668, "dur":85138, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1710515959654800, "dur":5221, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1710515959660027, "dur":7210, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1710515959671817, "dur":734, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":2, "ts":1710515959672558, "dur":168, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1710515959673087, "dur":155, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\ENES\\Unity Projects\\SpaceShooter\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710515959673244, "dur":316, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\ENES\\Unity Projects\\SpaceShooter\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710515959673562, "dur":400, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\ENES\\Unity Projects\\SpaceShooter\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710515959673964, "dur":457, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\ENES\\Unity Projects\\SpaceShooter\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710515959674424, "dur":653, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\ENES\\Unity Projects\\SpaceShooter\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710515959675079, "dur":170, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\ENES\\Unity Projects\\SpaceShooter\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710515959675251, "dur":439, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\ENES\\Unity Projects\\SpaceShooter\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710515959675763, "dur":179, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player03318986-inputdata.json" }}
+,{ "pid":12345, "tid":2, "ts":1710515959672556, "dur":3802, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1710515959676778, "dur":92, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1710515959677699, "dur":172703, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1710515959856618, "dur":147, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1710515959856617, "dur":149, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ENES/SpaceShooter/SpaceShooter_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1710515959856808, "dur":1939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1710515959654936, "dur":5125, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1710515959660067, "dur":1833, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1710515959661901, "dur":5354, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1710515959667256, "dur":251, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ENES/SpaceShooter/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1710515959672461, "dur":4025, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1710515959676883, "dur":169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ENES/SpaceShooter/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1710515959677283, "dur":2388, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1710515959679783, "dur":470, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ENES/SpaceShooter/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1710515959681273, "dur":1473, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1710515959683539, "dur":7675, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710515959691360, "dur":3009, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710515959694502, "dur":4191, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710515959698787, "dur":5904, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710515959704815, "dur":2733, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710515959707655, "dur":2032, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710515959709778, "dur":3860, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710515959713736, "dur":81, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1710515959713822, "dur":4088, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710515959718029, "dur":3445, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710515959721573, "dur":3117, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710515959724841, "dur":4108, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710515959729130, "dur":3525, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710515959732855, "dur":4248, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710515959737211, "dur":3690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710515959741015, "dur":3859, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710515959745002, "dur":3518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710515959748625, "dur":4172, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710515959762650, "dur":326, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1710515959752942, "dur":10121, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":3, "ts":1710515959763564, "dur":4561, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":3, "ts":1710515959768340, "dur":90450, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710515959654870, "dur":5180, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710515959660056, "dur":829, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\install unity editor\\Unity 2022.3.13f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.VisualStudioSolution.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710515959660976, "dur":552, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\install unity editor\\Unity 2022.3.13f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Tools.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710515959660056, "dur":2551, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710515959662607, "dur":4640, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710515959667257, "dur":257, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ENES/SpaceShooter/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":4, "ts":1710515959671574, "dur":2411, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":4, "ts":1710515959674133, "dur":182, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ENES/SpaceShooter/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1710515959674342, "dur":2584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1710515959677061, "dur":188, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ENES/SpaceShooter/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1710515959678393, "dur":1541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1710515959680011, "dur":118, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\install unity editor\\Unity 2022.3.13f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710515959680009, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ENES/SpaceShooter/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710515959680861, "dur":10659, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710515959691677, "dur":4319, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710515959696105, "dur":5482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710515959707519, "dur":60, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710515959701989, "dur":5603, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710515959707834, "dur":93, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710515959707932, "dur":7600, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710515959715906, "dur":4395, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710515959725000, "dur":99, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710515959720395, "dur":4717, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710515959725283, "dur":4845, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710515959730234, "dur":5223, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710515959738854, "dur":55, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710515959735594, "dur":3350, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710515959739760, "dur":116, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\install unity editor\\Unity 2022.3.13f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710515959739757, "dur":125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710515959739996, "dur":3513, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710515959744023, "dur":4265, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710515959748401, "dur":4261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710515959752794, "dur":10303, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":4, "ts":1710515959763271, "dur":9351, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1710515959772755, "dur":86031, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1710515959654996, "dur":5075, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1710515959660074, "dur":1762, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1710515959661836, "dur":5408, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1710515959667283, "dur":232, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\install unity editor\\Unity 2022.3.13f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1710515959667256, "dur":261, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ENES/SpaceShooter/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1710515959673010, "dur":2137, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1710515959675224, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ENES/SpaceShooter/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1710515959675586, "dur":1923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1710515959677753, "dur":198, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ENES/SpaceShooter/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1710515959678458, "dur":3336, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1710515959681896, "dur":262, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":5, "ts":1710515959683292, "dur":14506, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":5, "ts":1710515959697982, "dur":3601, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710515959701828, "dur":3394, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710515959705360, "dur":3252, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710515959708714, "dur":4588, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710515959713483, "dur":3070, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710515959716745, "dur":3338, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710515959720215, "dur":6912, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710515959727246, "dur":3425, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710515959730778, "dur":5487, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710515959739502, "dur":86, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1710515959736420, "dur":3237, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710515959739923, "dur":4039, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710515959744098, "dur":3315, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710515959747585, "dur":5293, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710515959753047, "dur":7946, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":5, "ts":1710515959761276, "dur":1498, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1710515959762783, "dur":10778, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/level0" }}
+,{ "pid":12345, "tid":5, "ts":1710515959773670, "dur":85137, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1710515959655052, "dur":5044, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1710515959660099, "dur":1710, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1710515959661810, "dur":5435, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1710515959667257, "dur":220, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ENES/SpaceShooter/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":6, "ts":1710515959671092, "dur":2684, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":6, "ts":1710515959673882, "dur":160, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\install unity editor\\Unity 2022.3.13f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1710515959673878, "dur":165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ENES/SpaceShooter/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1710515959674063, "dur":3736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1710515959677892, "dur":325, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\install unity editor\\Unity 2022.3.13f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1710515959677890, "dur":329, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ENES/SpaceShooter/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1710515959678537, "dur":6534, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1710515959685479, "dur":7360, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710515959692939, "dur":5269, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710515959698325, "dur":5056, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710515959703524, "dur":2441, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710515959706104, "dur":3093, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710515959709305, "dur":5202, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710515959714657, "dur":3373, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710515959718183, "dur":3342, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710515959721645, "dur":3032, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710515959724832, "dur":3718, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710515959728652, "dur":2949, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710515959731706, "dur":4191, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710515959740578, "dur":247, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1710515959736021, "dur":4844, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710515959741210, "dur":4889, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710515959746249, "dur":4862, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710515959751283, "dur":12026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":6, "ts":1710515959763412, "dur":3801, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":6, "ts":1710515959767300, "dur":91488, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1710515959655104, "dur":5045, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1710515959660154, "dur":1657, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1710515959661811, "dur":5431, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1710515959667275, "dur":213, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\install unity editor\\Unity 2022.3.13f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":7, "ts":1710515959667256, "dur":234, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ENES/SpaceShooter/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":7, "ts":1710515959668724, "dur":5879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":7, "ts":1710515959674730, "dur":156, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\install unity editor\\Unity 2022.3.13f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":7, "ts":1710515959674728, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ENES/SpaceShooter/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1710515959675397, "dur":2098, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1710515959677641, "dur":181, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\install unity editor\\Unity 2022.3.13f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":7, "ts":1710515959677638, "dur":185, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ENES/SpaceShooter/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1710515959678349, "dur":4538, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1710515959685600, "dur":6145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710515959691857, "dur":5168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710515959701346, "dur":53, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1710515959697148, "dur":4272, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710515959701605, "dur":4608, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710515959706368, "dur":2792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710515959709250, "dur":6305, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710515959719004, "dur":68, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1710515959715682, "dur":3410, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710515959719218, "dur":3754, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710515959723107, "dur":476, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710515959723613, "dur":5331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710515959729069, "dur":3515, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710515959732684, "dur":4427, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710515959737277, "dur":3579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710515959740992, "dur":3893, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710515959745105, "dur":3453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710515959748681, "dur":4784, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710515959759007, "dur":58, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1710515959755554, "dur":3559, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":7, "ts":1710515959767160, "dur":265, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1710515959759349, "dur":8097, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/level0.resS" }}
+,{ "pid":12345, "tid":7, "ts":1710515959767715, "dur":91096, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1710515959655143, "dur":5016, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1710515959660160, "dur":2190, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1710515959662351, "dur":4888, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1710515959667267, "dur":211, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1710515959670929, "dur":3448, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/app.info" }}
+,{ "pid":12345, "tid":8, "ts":1710515959674379, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ENES/SpaceShooter/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1710515959676105, "dur":1836, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1710515959678025, "dur":170, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ENES/SpaceShooter/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1710515959678392, "dur":3367, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1710515959681858, "dur":97, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":8, "ts":1710515959681857, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ENES/SpaceShooter/SpaceShooter.exe" }}
+,{ "pid":12345, "tid":8, "ts":1710515959681978, "dur":10149, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter.exe" }}
+,{ "pid":12345, "tid":8, "ts":1710515959692236, "dur":8237, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710515959704266, "dur":110, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1710515959700643, "dur":3780, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710515959704591, "dur":3946, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710515959713735, "dur":75, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1710515959708759, "dur":5122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710515959713998, "dur":3918, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710515959718082, "dur":4513, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710515959722689, "dur":3879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710515959726670, "dur":3247, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710515959730110, "dur":5361, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710515959735598, "dur":3179, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710515959738925, "dur":3364, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710515959742386, "dur":5496, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710515959748037, "dur":4218, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710515959752382, "dur":11832, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ENES/SpaceShooter/SpaceShooter_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1710515959764524, "dur":94268, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710515959865003, "dur":1222, "ph":"X", "name": "ProfilerWriteOutput" }
+,
